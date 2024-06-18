@@ -17,9 +17,7 @@ miVariable = "la condicion es verdadera ET" if 1 > 2 else "la condicion es falsa
 print(miVariable)
 
 # if - elif
-
 color = "azul"
-
 if color == "amarillo":
     print('La variable "color" tiene asignado: amarillo')
 elif color == "rojo":
